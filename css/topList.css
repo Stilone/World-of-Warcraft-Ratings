@@ -1,0 +1,396 @@
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    margin: 0 auto;
+    width: 100%;
+    height: 100%;
+    background: url("../img/bgrimg.jpg") center no-repeat;
+    background-attachment: fixed;
+}
+
+.container {
+    padding: 0;
+    margin: 0 auto;
+}
+
+main {
+
+
+}
+
+.dungeons-run {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.card-runs {
+    width: 280px;
+    height: 480px;
+}
+
+.open-run {
+    display: flex;
+    justify-content: center;
+}
+
+.card-run {
+    width: 740px;
+
+}
+
+.card-img-run {
+    overflow: hidden;
+    height: 200px;
+
+}
+
+.icon-item-specs-none {
+    width: 30px;
+    height: 30px;
+    background-image: url("../img/spec/spec.png");
+    background-size: 300px;
+    background-position: -202px -120px;
+    float: left;
+}
+
+.icon-item-dk-blood {
+    width: 30px;
+    height: 30px;
+    background-image: url("../img/spec/spec.png");
+    background-size: 300px;
+    background-position: -3px 0;
+    float: left;
+}
+
+.icon-item-dh-vengeance {
+    width: 30px;
+    height: 30px;
+    background-image: url("../img/spec/spec.png");
+    background-size: 300px;
+    background-position: -34px 0;
+    float: left;
+}
+
+.icon-item-hunter-beastmaster {
+    width: 30px;
+    height: 30px;
+    background-image: url("../img/spec/spec.png");
+    background-size: 300px;
+    background-position: -71px 0;
+    float: left;
+}
+
+.icon-item-mage-frost {
+    width: 30px;
+    height: 30px;
+    background-image: url("../img/spec/spec.png");
+    background-size: 300px;
+    background-position: -104px 0;
+    float: left;
+}
+
+.icon-item-paladin-protection {
+    width: 30px;
+    height: 30px;
+    background-image: url("../img/spec/spec.png");
+    background-size: 300px;
+    background-position: -137px 0;
+    float: left;
+}
+
+.icon-item-paladin-retribution {
+    width: 30px;
+    height: 30px;
+    background-image: url("../img/spec/spec.png");
+    background-size: 300px;
+    background-position: -170px 0;
+    float: left;
+}
+
+.icon-item-priest-discipline {
+    width: 30px;
+    height: 30px;
+    background-image: url("../img/spec/spec.png");
+    background-size: 300px;
+    background-position: -202px 0;
+    float: left;
+}
+
+.icon-item-priest-holy {
+    width: 30px;
+    height: 30px;
+    background-image: url("../img/spec/spec.png");
+    background-size: 300px;
+    background-position: -235px 0;
+    float: left;
+}
+
+.icon-item-dk-frost {
+    width: 30px;
+    height: 30px;
+    background-image: url("../img/spec/spec.png");
+    background-size: 300px;
+    background-position: -3px -30px;
+    float: left;
+}
+
+.icon-item-druid-balance {
+    width: 30px;
+    height: 30px;
+    background-image: url("../img/spec/spec.png");
+    background-size: 300px;
+    background-position: -34px -30px;
+    float: left;
+}
+
+.icon-item-hunter-marksmanship {
+    width: 30px;
+    height: 30px;
+    background-image: url("../img/spec/spec.png");
+    background-size: 300px;
+    background-position: -71px -30px;
+    float: left;
+}
+
+.icon-item-monk-brewmaster {
+    width: 30px;
+    height: 30px;
+    background-image: url("../img/spec/spec.png");
+    background-size: 300px;
+    background-position: -104px -30px;
+    float: left;
+}
+
+.icon-item-priest-shadowpriest {
+    width: 30px;
+    height: 30px;
+    background-image: url("../img/spec/spec.png");
+    background-size: 300px;
+    background-position: -137px -30px;
+    float: left;
+}
+
+.icon-item-shaman-elemental {
+    width: 30px;
+    height: 30px;
+    background-image: url("../img/spec/spec.png");
+    background-size: 300px;
+    background-position: -170px -30px;
+    float: left;
+}
+
+.icon-item-shaman-enchancement {
+    width: 30px;
+    height: 30px;
+    background-image: url("../img/spec/spec.png");
+    background-size: 300px;
+    background-position: -202px -30px;
+    float: left;
+}
+
+.icon-item-shaman-restoration {
+    width: 30px;
+    height: 30px;
+    background-image: url("../img/spec/spec.png");
+    background-size: 300px;
+    background-position: -235px -30px;
+    float: left;
+}
+
+.icon-item-dk-unholy {
+    width: 30px;
+    height: 30px;
+    background-image: url("../img/spec/spec.png");
+    background-size: 300px;
+    background-position: -3px -60px;
+    float: left;
+}
+
+.icon-item-druid-feral {
+    width: 30px;
+    height: 30px;
+    background-image: url("../img/spec/spec.png");
+    background-size: 300px;
+    background-position: -34px -60px;
+    float: left;
+}
+
+.icon-item-hunter-survival {
+    width: 30px;
+    height: 30px;
+    background-image: url("../img/spec/spec.png");
+    background-size: 300px;
+    background-position: -71px -60px;
+    float: left;
+}
+
+.icon-item-monk-mistweaver {
+    width: 30px;
+    height: 30px;
+    background-image: url("../img/spec/spec.png");
+    background-size: 300px;
+    background-position: -104px -60px;
+    float: left;
+}
+
+.icon-item-rogue-mutilation {
+    width: 30px;
+    height: 30px;
+    background-image: url("../img/spec/spec.png");
+    background-size: 300px;
+    background-position: -137px -60px;
+    float: left;
+}
+
+.icon-item-warlock-affliction {
+    width: 30px;
+    height: 30px;
+    background-image: url("../img/spec/spec.png");
+    background-size: 300px;
+    background-position: -170px -60px;
+    float: left;
+}
+
+.icon-item-warrior-arms {
+    width: 30px;
+    height: 30px;
+    background-image: url("../img/spec/spec.png");
+    background-size: 300px;
+    background-position: -202px -60px;
+    float: left;
+}
+
+.icon-item-warrior-fury {
+    width: 30px;
+    height: 30px;
+    background-image: url("../img/spec/spec.png");
+    background-size: 300px;
+    background-position: -235px -60px;
+    float: left;
+}
+
+.icon-item-dh-havoc {
+    width: 30px;
+    height: 30px;
+    background-image: url("../img/spec/spec.png");
+    background-size: 300px;
+    background-position: -3px -90px;
+    float: left;
+}
+
+.icon-item-druid-tank {
+    width: 30px;
+    height: 30px;
+    background-image: url("../img/spec/spec.png");
+    background-size: 300px;
+    background-position: -34px -90px;
+    float: left;
+}
+
+.icon-item-mage-arcane {
+    width: 30px;
+    height: 30px;
+    background-image: url("../img/spec/spec.png");
+    background-size: 300px;
+    background-position: -71px -90px;
+    float: left;
+}
+
+.icon-item-monk-windwalker {
+    width: 30px;
+    height: 30px;
+    background-image: url("../img/spec/spec.png");
+    background-size: 300px;
+    background-position: -104px -90px;
+    float: left;
+}
+
+.icon-item-rogue-outlaw {
+    width: 30px;
+    height: 30px;
+    background-image: url("../img/spec/spec.png");
+    background-size: 300px;
+    background-position: -137px -90px;
+    float: left;
+}
+
+.icon-item-warlock-demonology {
+    width: 30px;
+    height: 30px;
+    background-image: url("../img/spec/spec.png");
+    background-size: 300px;
+    background-position: -170px -90px;
+    float: left;
+}
+
+.icon-item-warrior-protection {
+    width: 30px;
+    height: 30px;
+    background-image: url("../img/spec/spec.png");
+    background-size: 300px;
+    background-position: -202px -90px;
+    float: left;
+}
+
+.icon-item-druid-restoration {
+    width: 30px;
+    height: 30px;
+    background-image: url("../img/spec/spec.png");
+    background-size: 300px;
+    background-position: -34px -120px;
+    float: left;
+}
+
+.icon-item-mage-fire {
+    width: 30px;
+    height: 30px;
+    background-image: url("../img/spec/spec.png");
+    background-size: 300px;
+    background-position: -71px -120px;
+    float: left;
+}
+
+
+.icon-item-paladin-holy {
+    width: 30px;
+    height: 30px;
+    background-image: url("../img/spec/spec.png");
+    background-size: 300px;
+    background-position: -104px -120px;
+    float: left;
+}
+
+
+.icon-item-rogue-subtlety {
+    width: 30px;
+    height: 30px;
+    background-image: url("../img/spec/spec.png");
+    background-size: 300px;
+    background-position: -137px -120px;
+    float: left;
+}
+
+
+.icon-item-warlock-destruction {
+    width: 30px;
+    height: 30px;
+    background-image: url("../img/spec/spec.png");
+    background-size: 300px;
+    background-position: -170px -120px;
+    float: left;
+}
+
+
+
+
+
+
+
+
+
+
+
+
