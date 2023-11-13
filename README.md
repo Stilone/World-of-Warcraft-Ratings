@@ -33,7 +33,7 @@ Description: Upon loading the page, a request fetches the top World of Warcraft 
 
 
 
-<img align="right" height="450" width="575" alt="" src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif"/>
+<img align="right" height="450" width="575" alt="" src="https://media.giphy.com/media/yYSSBtDgbbRzq/giphy.gif"/>
 
 
 
