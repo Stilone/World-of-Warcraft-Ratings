@@ -14,8 +14,6 @@ The project is straightforward to set up. No dependency installation is required
 - HTML
 - CSS
 - Fetch API
-- Project Overview 🌐
-- Home Page 🏠
   
 # Home Page
 
