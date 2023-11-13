@@ -1,4 +1,4 @@
-#World of Warcraft Ratings 🚀
+# World of Warcraft Ratings 🚀
 
 Welcome to the World of Warcraft Ratings project! This project served as a playground for reinforcing my skills with GET requests, experimenting with lazy loading, incorporating video backgrounds, and practicing card layout using flexbox. While this project might not boast advanced functionality, it stands out with a more polished appearance compared to my previous works.
 
@@ -6,7 +6,7 @@ Welcome to the World of Warcraft Ratings project! This project served as a playg
 
 ``home.page.html``
 
-Tech Stack 💻
+# Tech Stack 💻
 - Bootstrap
 - Vanilla JavaScript
 - HTML
@@ -15,13 +15,13 @@ Tech Stack 💻
 - Project Overview 🌐
 - Home Page 🏠
   
-#Home Page
+# Home Page
 
 https://sun9-31.userapi.com/impg/-dFoj7-neP9Yq7aThanfmvt8xrHJ_XjzzoXh8Q/i90Z0tr4f60.jpg?size=1830x865&quality=96&sign=865fd36f225859d670f80213662a38b4&type=album
 
 Description: The background showcases the game I was playing at that time, and a large button on the right leads to the rating page. PS. Yes, I played in the woods on VI with a platinum rating.
 
-#Main Page 🌟
+# Main Page 🌟
 
 https://sun9-37.userapi.com/impg/ufHh38z0F1E17AnAFJNa6kXSVw2OJh9hiswHIA/3shz1n4Igzo.jpg?size=1902x900&quality=96&sign=6ec59a604f8d1ed51e91b84240ee748d&type=album
 
