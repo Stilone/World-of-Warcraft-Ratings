@@ -29,9 +29,10 @@ Description: The background showcases the game I was playing at that time, and a
 
 Description: Upon loading the page, a request fetches the top World of Warcraft characters. Clicking on a card triggers a smooth scroll with more detailed information. To make it visually appealing, I even added plenty of images!
 
+<img align="right" height="250" width="375" alt="" src="https://giphy.com/gifs/computer-cat-wearing-glasses-VbnUQpnihPSIgIXuZv"/>
 ![Img](https://sun9-79.userapi.com/impg/SMLqa4BobaQDgY5LZF4dsHRFVZiaq31JgrRcXQ/WaeQOBhWzIw.jpg?size=328x408&quality=96&sign=8471b9e63ada6c57ea4bf58398ebdd19&type=album)
 
-<img align="right" height="250" width="375" alt="" src="https://giphy.com/gifs/computer-cat-wearing-glasses-VbnUQpnihPSIgIXuZv"/>
+
 
 This project marks my final steps in using vanilla JavaScript before transitioning to the React framework. I hope you enjoy this project more than the previous ones. Best of luck! 🌈✨
 
