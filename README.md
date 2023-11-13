@@ -33,7 +33,7 @@ Description: Upon loading the page, a request fetches the top World of Warcraft 
 
 
 
-<img align="right" height="250" width="375" alt="" src="https://giphy.com/gifs/computer-cat-wearing-glasses-VbnUQpnihPSIgIXuZv"/>
+<img align="right" height="450" width="575" alt="" src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif"/>
 
 
 
