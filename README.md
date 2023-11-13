@@ -2,7 +2,9 @@
 
 Welcome to the World of Warcraft Ratings project! This project served as a playground for reinforcing my skills with GET requests, experimenting with lazy loading, incorporating video backgrounds, and practicing card layout using flexbox. While this project might not boast advanced functionality, it stands out with a more polished appearance compared to my previous works.
 
-посмотреть проект можно клонировав его и запустив файл:
+# Installation
+
+The project is straightforward to set up.. No dependency installation is required.
 
 ``home.page.html``
 
