@@ -4,7 +4,7 @@ Welcome to the World of Warcraft Ratings project! This project served as a playg
 
 # Installation
 
-The project is straightforward to set up.. No dependency installation is required.
+The project is straightforward to set up. No dependency installation is required. To run the project, download and open the file:
 
 ``home.page.html``
 
