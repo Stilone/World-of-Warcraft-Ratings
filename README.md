@@ -31,6 +31,8 @@ Description: Upon loading the page, a request fetches the top World of Warcraft 
 
 ![Img](https://sun9-79.userapi.com/impg/SMLqa4BobaQDgY5LZF4dsHRFVZiaq31JgrRcXQ/WaeQOBhWzIw.jpg?size=328x408&quality=96&sign=8471b9e63ada6c57ea4bf58398ebdd19&type=album)
 
+<img align="right" height="250" width="375" alt="" src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" />
+
 This project marks my final steps in using vanilla JavaScript before transitioning to the React framework. I hope you enjoy this project more than the previous ones. Best of luck! 🌈✨
 
 
