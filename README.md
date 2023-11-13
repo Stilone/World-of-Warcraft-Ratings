@@ -33,6 +33,8 @@ https://sun9-79.userapi.com/impg/SMLqa4BobaQDgY5LZF4dsHRFVZiaq31JgrRcXQ/WaeQOBhW
 
 This project marks my final steps in using vanilla JavaScript before transitioning to the React framework. I hope you enjoy this project more than the previous ones. Best of luck! 🌈✨
 
+![Главная страница](https://sun9-47.userapi.com/impg/lcp6cnn5yoa0-fBNZ4ovcUb9F4CsVaJLTiXhVQ/cby6GXju1fQ.jpg?size=1350x384&quality=96&sign=5a2626ea3e5d249bf969be8e5de8aad7&type=album)
+
 
 
 
